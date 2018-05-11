@@ -3,3 +3,4 @@
 // Domain
 import './domain/fadeOuter';
 import './domain/slider';
+import 'bootstrap';
