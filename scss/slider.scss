@@ -1,0 +1,25 @@
+.slider {
+  padding: 50px 0;
+  .slider-item{
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    filter: opacity(0.9);
+    background-position: center;
+  }
+  .item-1 {
+    background-image: url("http://i2.wp.com/www.foodrepublic.com/wp-content/uploads/2017/06/18922733_1700765506896134_8698153593649030779_o-1.jpg?fit=1863%2C1167");
+  }
+  .item-2 {
+    background-image: url("https://images-prod.healthline.com/hlcmsresource/images/AN_images/AN173-Raisins-1296x728-Header.jpg");
+  }
+  .item-3 {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg/1200px-Good_Food_Display_-_NCI_Visuals_Online.jpg");
+  }
+  .item-4 {
+     background-image: url("https://cdn.cnn.com/cnnnext/dam/assets/171027052520-processed-foods-overlay-tease.jpg");
+  }
+  .item-5 {
+    background-image: url("https://cdn.aarp.net/content/dam/aarp/benefits_discounts/discounts/2015_07/1140-Outback-Bloomin-Onion-Original.web.360.207.jpg");
+  }
+}

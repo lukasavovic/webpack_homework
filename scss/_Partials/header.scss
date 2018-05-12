@@ -1,33 +1,10 @@
-#header {
-	height: 25vh;
-	background-image: url("https://foodrevolution.org/wp-content/uploads/2018/04/blog-featured-diabetes-20180406-1330.jpg");
-	background-size: cover;
-    background-position: center;
-}
 #logo {
-  font-family: 'Satisfy', cursive;
-  color: $main-color;
-  margin: 0 auto;
+  font-family: 'Homemade Apple', cursive;
 	h1 {
+        color: black;
 		text-align: center;
 		font-size: 100px;
-		padding: 50px;
-        margin: 50px;
+		padding: 50px 0px;
+        margin: 20px;
 	}
-}
-.slider {
-  padding: 50px 0;
-}
-.slider-item{
-  width: 100%;
-  height: 500px;
-  background-size: cover;
-  filter: opacity(0.9);
-  background-position: center;
-}
-.item-1 {
-  background-image: url("http://i2.wp.com/www.foodrepublic.com/wp-content/uploads/2017/06/18922733_1700765506896134_8698153593649030779_o-1.jpg?fit=1863%2C1167");
-}
-.item-2 {
-  background-image: url("https://images-prod.healthline.com/hlcmsresource/images/AN_images/AN173-Raisins-1296x728-Header.jpg");
 }
