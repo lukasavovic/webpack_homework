@@ -1,11 +1,27 @@
 nav {
-  background-color: gray;
+  border-top: 1px solid lightgrey;
+  border-bottom: 1px solid lightgrey;
+  padding: 10px;
   ul {
+
+    justify-content: center;
+    display: flex;
+    margin: 0;
     li {
-      text-decoration: none;
       display: inline-flex;
-      align-self: center;
-      justify-self: center;
+      a {
+        color: black;
+        font-size: 18px;
+        padding: 5px 35px;
+        text-decoration: none;
+        align-self: center;
+        a:hover {
+          text-decoration: none;
+        }
+        img {
+          width: 50px;
+        }
+      }
     }
   }
 }

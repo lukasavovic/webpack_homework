@@ -1,5 +1,11 @@
 import '../vendor/slick.min';
 
 $(document).ready(function(){
-  $('.your-class').slick({});
+    $('.slider').slick({
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 2000,
+        arrows:false
+    });
 });
